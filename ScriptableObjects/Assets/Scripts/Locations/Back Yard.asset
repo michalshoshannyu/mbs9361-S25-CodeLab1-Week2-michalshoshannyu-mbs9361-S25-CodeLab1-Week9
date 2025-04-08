@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b869ab1a9bb744ab3a9def946ffdd966, type: 3}
+  m_Name: Back Yard
+  m_EditorClassIdentifier: 
+  locationName: The Backyard
+  locationDesc: Alone
+  top: {fileID: 11400000, guid: a571658ae69a847b68d035c7f87ffa90, type: 2}
+  bottom: {fileID: 0}
+  left: {fileID: 0}
+  right: {fileID: 11400000, guid: 558786ca5ef0d4c80a2c76185d2a104d, type: 2}
+  characterScene2:
+  - {fileID: 8289625112774775094, guid: baad9110e8a4d4771ae60428191d8625, type: 3}
+  - {fileID: 127497086483174379, guid: f5fbc9221c6204369954ff1e9b4fbc1c, type: 3}
